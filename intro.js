@@ -9,4 +9,4 @@ console.log(`Area: ${area} cm2`);
 
 
 let perimeter = 2* (width +height);
-console.log(`Perimeter: ${perimeter} cm`)
+console.log(`Perimeter: ${perimeter} cm`);
